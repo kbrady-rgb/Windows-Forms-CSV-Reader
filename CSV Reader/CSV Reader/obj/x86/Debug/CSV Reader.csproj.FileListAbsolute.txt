@@ -1,0 +1,17 @@
+C:\Users\Kabrina\Documents\C#\CSV Reader Project and csv Files\CSV Reader\CSV Reader\obj\x86\Debug\CSV Reader.csprojAssemblyReference.cache
+C:\Users\Kabrina\Documents\C#\CSV Reader Project and csv Files\CSV Reader\CSV Reader\obj\x86\Debug\CSV_Reader.CSVReader.resources
+C:\Users\Kabrina\Documents\C#\CSV Reader Project and csv Files\CSV Reader\CSV Reader\obj\x86\Debug\CSV_Reader.Properties.Resources.resources
+C:\Users\Kabrina\Documents\C#\CSV Reader Project and csv Files\CSV Reader\CSV Reader\obj\x86\Debug\CSV Reader.csproj.GenerateResource.cache
+C:\Users\Kabrina\Documents\C#\CSV Reader Project and csv Files\CSV Reader\CSV Reader\obj\x86\Debug\CSV Reader.csproj.CoreCompileInputs.cache
+C:\Users\Kabrina\Documents\C#\CSV Reader Project and csv Files\CSV Reader\CSV Reader\bin\Debug\CSV Reader.exe
+C:\Users\Kabrina\Documents\C#\CSV Reader Project and csv Files\CSV Reader\CSV Reader\bin\Debug\CSV Reader.pdb
+C:\Users\Kabrina\Documents\C#\CSV Reader Project and csv Files\CSV Reader\CSV Reader\obj\x86\Debug\CSV Reader.exe
+C:\Users\Kabrina\Documents\C#\CSV Reader Project and csv Files\CSV Reader\CSV Reader\obj\x86\Debug\CSV Reader.pdb
+C:\Users\Kabrina\Documents\DMACC\2019-20\FALL 2019\C#\Turned In\Module 8\CSVReaderBrady\CSV Reader\CSV Reader\bin\Debug\CSV Reader.exe
+C:\Users\Kabrina\Documents\DMACC\2019-20\FALL 2019\C#\Turned In\Module 8\CSVReaderBrady\CSV Reader\CSV Reader\bin\Debug\CSV Reader.pdb
+C:\Users\Kabrina\Documents\DMACC\2019-20\FALL 2019\C#\Turned In\Module 8\CSVReaderBrady\CSV Reader\CSV Reader\obj\x86\Debug\CSV Reader.csprojAssemblyReference.cache
+C:\Users\Kabrina\Documents\DMACC\2019-20\FALL 2019\C#\Turned In\Module 8\CSVReaderBrady\CSV Reader\CSV Reader\obj\x86\Debug\CSV_Reader.CSVReader.resources
+C:\Users\Kabrina\Documents\DMACC\2019-20\FALL 2019\C#\Turned In\Module 8\CSVReaderBrady\CSV Reader\CSV Reader\obj\x86\Debug\CSV_Reader.Properties.Resources.resources
+C:\Users\Kabrina\Documents\DMACC\2019-20\FALL 2019\C#\Turned In\Module 8\CSVReaderBrady\CSV Reader\CSV Reader\obj\x86\Debug\CSV Reader.csproj.GenerateResource.cache
+C:\Users\Kabrina\Documents\DMACC\2019-20\FALL 2019\C#\Turned In\Module 8\CSVReaderBrady\CSV Reader\CSV Reader\obj\x86\Debug\CSV Reader.exe
+C:\Users\Kabrina\Documents\DMACC\2019-20\FALL 2019\C#\Turned In\Module 8\CSVReaderBrady\CSV Reader\CSV Reader\obj\x86\Debug\CSV Reader.pdb
